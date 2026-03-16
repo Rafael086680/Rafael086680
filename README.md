@@ -2,16 +2,22 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafael086680&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafael086680&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="left" height="200" src="https://cdn.pixabay.com/animation/2025/10/13/13/05/13-05-13-688_512.gif"  />
 
 ###
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafael086680&show_icons=true&theme=radical&hide_border=true&icon_color=E23636" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael086680&layout=compact&theme=radical&hide_border=true" height="180"/>
+</p>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafael086680/Rfael086680/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafael086680/Rafael086680/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rafael086680/Rafael086680/output/github-contribution-grid-snake.svg">
+</picture>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />

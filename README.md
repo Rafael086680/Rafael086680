@@ -54,7 +54,7 @@ Sempre buscando aprender novas tecnologias e melhorar minhas habilidades como de
 
 <p align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21lv67uby5mhjxjukys4tpn4a&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21lv67uby5mhjxjukys4tpn4a&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 </p>
 

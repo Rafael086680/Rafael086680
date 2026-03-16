@@ -1,4 +1,13 @@
-<h2 align="center">Olá, Bem vindo ao meu Perfil no Github!</h2>
+<!-- Header -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=6ABF4B" />
+</p>
+
+<p align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=6ABF4B&center=true&vCenter=true&width=800&lines=Olá%2C+meu+nome+é+Rafael!;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" /> 
+</p>
+
+---
 
 ###
 
@@ -10,7 +19,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Rafael086680&show_icons=true&theme=radical&hide_border=true&icon_color=E23636" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael086680&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
-
+ 
 ---
 
 <picture>
@@ -35,6 +44,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ym6limipzjju5cy3gxskrpgfhq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+---
 ###
 
 <div align="center">

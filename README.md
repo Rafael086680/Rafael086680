@@ -69,9 +69,3 @@ Sempre buscando aprender novas tecnologias e melhorar minhas habilidades como de
 </a>
 
 </p>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=87CEFA&section=footer"/>
-</p>

@@ -54,14 +54,6 @@ Sempre buscando aprender novas tecnologias e melhorar minhas habilidades como de
 
 <p align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21lv67uby5mhjxjukys4tpn4a&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-</p>
-
----
-
-<p align="center">
-
 <img src="https://img.shields.io/badge/rafael086680-Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge"/>
 
 <a href="https://www.linkedin.com/in/rafael-rodrigues-antonio-198a38366/" target="_blank">

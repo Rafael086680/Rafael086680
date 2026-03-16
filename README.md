@@ -1,10 +1,10 @@
 <!-- Header -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=6ABF4B" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=87CEFA" />
 </p>
 
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=6ABF4B&center=true&vCenter=true&width=800&lines=Olá%2C+meu+nome+é+Rafael!;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=87CEFA&center=true&vCenter=true&width=800&lines=Olá%2C+meu+nome+é+Rafael!;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" /> 
 </p>
 
 ---

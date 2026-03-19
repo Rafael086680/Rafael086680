@@ -53,8 +53,6 @@ Tenho experiência com projetos acadêmicos e pessoais, sempre buscando evoluir 
 <img width="10"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
 <img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
-<img width="10"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
 <img width="10"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
@@ -69,7 +67,7 @@ Tenho experiência com projetos acadêmicos e pessoais, sempre buscando evoluir 
 </p>
 
 <p>
-Node.js, Python, C#, C, Shell Script, PostgreSQL, MySQL, Supabase e Firebase.
+Node.js, Python, C, Shell Script, PostgreSQL, MySQL, Supabase e Firebase.
 </p>
 
 </td>

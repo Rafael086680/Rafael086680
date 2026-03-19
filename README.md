@@ -128,6 +128,12 @@ Git, GitHub, Docker, Windows, Linux, VS Code, Visual Studio e Oracle VirtualBox
 
 ---
 
+<div align="center">
+  <img src="banner.png" width="100%" />
+</div>
+
+---
+
 <!-- CONTATO -->
 
 <p align="center">

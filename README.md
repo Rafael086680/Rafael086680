@@ -5,7 +5,7 @@
 
 ---
 
-<!-- SOBRE + STATS -->
+<!-- SOBRE + STATS --> 
 
 <table>
 <tr>

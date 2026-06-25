@@ -34,7 +34,7 @@ Tenho experiência com projetos acadêmicos e pessoais, sempre buscando evoluir 
 
 <div align="center">
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 | Back-End | Front-End | Ferramentas |
 | :---: | :---: | :---: |

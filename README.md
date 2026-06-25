@@ -44,17 +44,6 @@ Tenho experiência com projetos acadêmicos e pessoais, sempre buscando evoluir 
 
 ---
 
-## Meus projetos:
-
-| Projeto | Proposta | Tech Stack |
-| :--- | :--- | :--- |
-| **[Landing-Page](https://github.com/Rafael086680/Landing-Page)** | Landing page de página única, feita com HTML5 e CSS3 como projeto acadêmico, com foco em estrutura semântica, UI e experiência do usuário. | `HTML`, `CSS` |
-| **[Consultoria-UX](https://github.com/Rafael086680/Consultoria-UX)** | Projeto de ferramentas web com foco em UX. | `HTML`, `CSS` |
-| **[Project_Characters_Genshin](https://github.com/Rafael086680/Project_Characters_Genshin)** | Protótipo de site para visualizar informações de personagens de Genshin Impact, incluindo builds, times e detalhes *(em desenvolvimento)*. | `HTML`, `CSS`, `JavaScript` |
-| **[Trabalho-N3---web-e-ux](https://github.com/Rafael086680/Trabalho-N3---web-e-ux)** | Desenvolvimento de um site completo, com porte profissional. | `HTML`, `CSS` |
-
-#
-
 <div align = "center">
 
  <img src="https://i.pinimg.com/736x/42/8c/c1/428cc16f636d04ad38651a1bd3adf16c.jpg" width="75">&nbsp;

@@ -46,7 +46,7 @@ Tenho experiência com projetos acadêmicos e pessoais, sempre buscando evoluir 
 
 <div align = "center">
 
- <img src="https://i.pinimg.com/736x/42/8c/c1/428cc16f636d04ad38651a1bd3adf16c.jpg" width="75">&nbsp;
+ <img src="https://static.wikia.nocookie.net/marvel-rivals/images/5/5f/Emoji_Icon_-_Mood_Swing.gif/revision/latest?cb=20260423110236" width="75">&nbsp;
 
 ## Minhas contribuições:
 

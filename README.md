@@ -24,7 +24,7 @@
 
 ###
 
-## 🙋‍♂️ Sobre mim
+##  Sobre mim
 
 Desenvolvedor em formação | Engenharia de Software.
 Focado em Front-End, Back-End, UI/UX e desenvolvimento moderno. Estudante de Engenharia de Software na **Católica SC**, em Jaraguá do Sul.

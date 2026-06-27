@@ -48,7 +48,7 @@ Tenho experiência com projetos acadêmicos e pessoais, sempre buscando evoluir 
 
 -  **User Experience**
   - Instituição: FIAP
-  -  [Ver certificado](LINK)
+  -  [Ver certificado](cerfiticates/user_experience.jfif)
 
 <div align = "center">
 

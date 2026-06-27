@@ -131,7 +131,7 @@ Tenho experiência com projetos acadêmicos e pessoais, sempre buscando evoluir 
 <td align="center" width="33%" valign="top">
 
 **Cloud Fundamentals**  
-<sub>FIAP • XX Hours</sub>
+<sub>FIAP • 80 Hours</sub>
 
 <sub>`Cloud Computing` • `Administration` • `Solution Architecture`</sub>
 

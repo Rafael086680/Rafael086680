@@ -45,30 +45,27 @@ Tenho experiência com projetos acadêmicos e pessoais, sempre buscando evoluir 
 ---
 ## Certifications
 
-- **User Experience**
-  - <sub>FIAP • 60 Hours</sub>
-  - <sub>`UX` • `Research` • `Prototyping` • `Usability` • `Design Thinking`</sub>
+<sub>
 
-- **Java Development**
-  - <sub>FIAP • 60 Hours</sub>
-  - <sub>`Java` • `OOP` • `Collections` • `Exception Handling`</sub>
+**User Experience** • FIAP • 60 Hours  
+`UX` `Research` `Prototyping` `Usability` `Design Thinking`
 
-- **Artificial Intelligence**
-  - <sub>FIAP • 80 Hours</sub>
-  - <sub>`AI` • `Machine Learning` • `Expert Systems`</sub>
+**Java Development** • FIAP • 60 Hours  
+`Java` `OOP` `Collections` `Exception Handling`
 
-- **Cybersecurity**
-  - <sub>FIAP • 120 Hours</sub>
-  - <sub>`Security` • `Cryptography` • `Risk Management`</sub>
+**Artificial Intelligence** • FIAP • 80 Hours  
+`AI` `Machine Learning` `Expert Systems`
 
-- **IT Infrastructure Management**
-  - <sub>FIAP • 20 Hours</sub>
-  - <sub>`Infrastructure` • `Networks` • `Hardware` • `IT Operations`</sub>
+**Cybersecurity** • FIAP • 120 Hours  
+`Security` `Cryptography` `Risk Management`
 
-- **Cloud Fundamentals, Administration and Solution Architect**
-  - <sub>FIAP • 80 Hours</sub>
-  - <sub>`Cloud Computing` • `Administration` • `Solution Architecture` • `Virtualization`</sub>
+**IT Infrastructure Management** • FIAP • 20 Hours  
+`Infrastructure` `Networks` `Hardware` `IT Operations`
 
+**Cloud Fundamentals, Administration and Solution Architect** • FIAP • 80 Hours  
+`Cloud Computing` `Administration` `Solution Architecture` `Virtualization`
+
+</sub>
 <div align = "center">
 
  <img src="https://static.wikia.nocookie.net/marvel-rivals/images/5/5f/Emoji_Icon_-_Mood_Swing.gif/revision/latest?cb=20260423110236" width="75">&nbsp;

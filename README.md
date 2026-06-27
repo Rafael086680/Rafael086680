@@ -29,40 +29,59 @@
 
 <td width="49%" valign="top">
 
-##  Sobre mim
+<table width="100%">
+<tr>
 
-Desenvolvedor em formação | Engenharia de Software.
+<td width="48%" valign="top">
 
-Focado em **Front-End**, **Back-End**, **UI/UX** e desenvolvimento moderno.
+<h2>👨‍💻 Sobre mim</h2>
 
-- Estudante de Engenharia de Software na **Católica SC**, em Jaraguá do Sul.
+<p>Desenvolvedor em formação | Engenharia de Software.</p>
 
-- Tenho experiência com projetos acadêmicos e pessoais, sempre buscando evoluir como desenvolvedor.
+<p>
+Focado em <strong>Front-End</strong>, <strong>Back-End</strong>,
+<strong>UI/UX</strong> e desenvolvimento moderno.
+</p>
+
+<ul>
+<li>Estudante de Engenharia de Software na <strong>Católica SC</strong>, em Jaraguá do Sul.</li>
+<li>Tenho experiência com projetos acadêmicos e pessoais, sempre buscando evoluir como desenvolvedor.</li>
+</ul>
 
 </td>
 
-<td width="2%" align="center">
+<td width="4%" align="center" valign="middle">
 
-```text
-│
-```
+<h1>|</h1>
 
 </td>
 
-<td width="49%" valign="top">
+<td width="48%" valign="top">
 
-##  Tech Stack
+<h2>💻 Tech Stack</h2>
 
-| Back-End | Front-End | Ferramentas |
-|:--:|:--:|:--:|
-| <img src="https://skillicons.dev/icons?i=nodejs,python,c,bash,postgres,mysql,supabase,firebase" /> | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,figma" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,visualstudio" /> |
+<h3>Back-End</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,python,c,bash,postgres,mysql,supabase,firebase" />
+</p>
+
+<h3>Front-End</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,figma" />
+</p>
+
+<h3>Ferramentas</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,visualstudio" />
+</p>
 
 </td>
 
 </tr>
 </table>
-
----
 
 ---
 ##  Certifications

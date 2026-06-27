@@ -24,45 +24,23 @@
 
 ###
 
-<table>
-<tr>
-
-<td width="49%" valign="top">
-
 ##  Sobre mim
 
 Desenvolvedor em formação | Engenharia de Software.
+Focado em Front-End, Back-End, UI/UX e desenvolvimento moderno. Estudante de Engenharia de Software na **Católica SC**, em Jaraguá do Sul.
+Tenho experiência com projetos acadêmicos e pessoais, sempre buscando evoluir como desenvolvedor.
 
-Focado em **Front-End**, **Back-End**, **UI/UX** e desenvolvimento moderno.
+---
 
-- Estudante de Engenharia de Software na **Católica SC**, em Jaraguá do Sul.
-
-- Tenho experiência com projetos acadêmicos e pessoais, sempre buscando evoluir como desenvolvedor.
-
-</td>
-
-<td width="2%" align="center">
-
-```text
-│
-```
-
-</td>
-
-<td width="49%" valign="top">
+<div align="center">
 
 ##  Tech Stack
 
 | Back-End | Front-End | Ferramentas |
-|:--:|:--:|:--:|
-| <img src="https://skillicons.dev/icons?i=nodejs,python,c,bash,postgres,mysql,supabase,firebase" /> | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,figma" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,visualstudio" /> |
+| :---: | :---: | :---: |
+| [![My Skills](https://skillicons.dev/icons?i=nodejs,python,c,bash,postgres,mysql,supabase,firebase)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,figma)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,visualstudio)](https://skillicons.dev) |
 
-</td>
-
-</tr>
-</table>
-
----
+</div>
 
 ---
 ##  Certifications

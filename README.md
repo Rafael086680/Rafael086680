@@ -1,3 +1,4 @@
+```md
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=header&reversal=false&animation=blinking&color=0072C6" />
 </div>
@@ -14,7 +15,7 @@
   Estudante de Engenharia de Software, focado em Front-End, Back-End e UI/UX.
 </div>
 
-<div align = "center">
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/rafael-rodrigues-antonio-198a38366/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafael086680)
@@ -22,27 +23,57 @@
 
 </div>
 
-###
+---
+
+<table>
+<tr>
+
+<td width="48%" valign="top">
 
 ##  Sobre mim
 
 Desenvolvedor em formação | Engenharia de Software.
-Focado em Front-End, Back-End, UI/UX e desenvolvimento moderno. Estudante de Engenharia de Software na **Católica SC**, em Jaraguá do Sul.
-Tenho experiência com projetos acadêmicos e pessoais, sempre buscando evoluir como desenvolvedor.
 
----
+Focado em **Front-End**, **Back-End**, **UI/UX** e desenvolvimento moderno.
 
-<div align="center">
+ Estudante de Engenharia de Software na **Católica SC**, em Jaraguá do Sul.
+
+ Tenho experiência com projetos acadêmicos e pessoais, sempre buscando evoluir como desenvolvedor.
+
+</td>
+
+<td width="4%" align="center">
+
+#
+
+</td>
+
+<td width="48%" valign="top">
 
 ##  Tech Stack
 
-| Back-End | Front-End | Ferramentas |
-| :---: | :---: | :---: |
-| [![My Skills](https://skillicons.dev/icons?i=nodejs,python,c,bash,postgres,mysql,supabase,firebase)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,figma)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,visualstudio)](https://skillicons.dev) |
+### Back-End
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,python,c,bash,postgres,mysql,supabase,firebase" />
+</p>
 
-</div>
+### Front-End
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,figma" />
+</p>
+
+### Ferramentas
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,visualstudio" />
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
+
 ##  Certifications
 
 **User Experience** · FIAP · 60 Hours  
@@ -62,11 +93,14 @@ Tenho experiência com projetos acadêmicos e pessoais, sempre buscando evoluir 
 
 **Cloud Fundamentals, Administration and Solution Architect** · FIAP · 80 Hours  
 `Cloud Computing` `Administration` `Solution Architecture` `Virtualization`
-<div align = "center">
 
- <img src="https://static.wikia.nocookie.net/marvel-rivals/images/5/5f/Emoji_Icon_-_Mood_Swing.gif/revision/latest?cb=20260423110236" width="75">&nbsp;
+---
 
-## Minhas contribuições:
+<div align="center">
+
+<img src="https://static.wikia.nocookie.net/marvel-rivals/images/5/5f/Emoji_Icon_-_Mood_Swing.gif/revision/latest?cb=20260423110236" width="75">
+
+##  Minhas contribuições
 
 </div>
 
@@ -76,4 +110,7 @@ Tenho experiência com projetos acadêmicos e pessoais, sempre buscando evoluir 
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rafael086680/Rafael086680/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&color=0072C6"/>
+</div>
+```

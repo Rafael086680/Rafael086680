@@ -44,6 +44,12 @@ Tenho experiência com projetos acadêmicos e pessoais, sempre buscando evoluir 
 
 ---
 
+## Certificações
+
+-  **User Experience**
+  - Instituição: FIAP
+  -  [Ver certificado](LINK)
+
 <div align = "center">
 
  <img src="https://static.wikia.nocookie.net/marvel-rivals/images/5/5f/Emoji_Icon_-_Mood_Swing.gif/revision/latest?cb=20260423110236" width="75">&nbsp;

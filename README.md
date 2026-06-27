@@ -46,11 +46,77 @@ Tenho experiência com projetos acadêmicos e pessoais, sempre buscando evoluir 
 
 ## Certificações
 
--  **User Experience**
-  - Instituição: FIAP
-  -  [Ver certificado](https://media.licdn.com/dms/image/v2/D4D2DAQED_V2nndNI5A/profile-treasury-image-shrink_800_800/B4DZ7.gl3aI4AI-/0/1782386417352?e=1783180800&v=beta&t=OwzA_gdRYgCpyb-XzzlTefEI6oHC1PP1NnNYglGLYxQ)
-60-hour certification focused on the fundamentals of User Experience (UX) and user-centered design.
-Throughout the course, I gained knowledge in user research, customer journey mapping, information architecture, prototyping, usability testing, and designing intuitive digital experiences. The program emphasized creating accessible, efficient, and user-focused solutions while aligning user needs with business goals.
+<table align="center">
+
+<tr>
+
+<td width="50%" valign="top" align="center">
+
+### User Experience
+
+**FIAP**  
+**60 Hours**
+
+Fundamentals of User Experience (UX), user research, customer journey mapping, information architecture, prototyping, usability testing, and user-centered design. Focused on creating intuitive, accessible, and efficient digital experiences.
+
+<a href="LINK_CERTIFICADO_UX">
+<img src="LINK_IMAGEM_UX" width="180"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+### Java Development
+
+**FIAP**  
+**60 Hours**
+
+Focused on Java programming fundamentals and object-oriented development. Covered Java syntax, OOP, exception handling, collections, programming logic, and best practices for building modern applications.
+
+<a href="LINK_CERTIFICADO_JAVA">
+<img src="LINK_IMAGEM_JAVA" width="180"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top" align="center">
+
+### Artificial Intelligence
+
+**FIAP**  
+**80 Hours**
+
+Covered Artificial Intelligence fundamentals, expert systems, machine learning concepts, intelligent algorithms, and practical applications for solving real-world problems.
+
+<a href="LINK_CERTIFICADO_AI">
+<img src="LINK_IMAGEM_AI" width="180"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+### Cybersecurity
+
+**FIAP**  
+**120 Hours**
+
+Focused on information security, cyber threats, vulnerabilities, authentication, cryptography fundamentals, risk management, and best practices to protect digital systems.
+
+<a href="LINK_CERTIFICADO_CYBER">
+<img src="LINK_IMAGEM_CYBER" width="180"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
 
 <div align = "center">
 

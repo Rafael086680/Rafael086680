@@ -43,29 +43,25 @@ Tenho experiência com projetos acadêmicos e pessoais, sempre buscando evoluir 
 </div>
 
 ---
-## Certifications
+##  Certifications
 
-<sub>
-
-**User Experience** • FIAP • 60 Hours  
+**User Experience** · FIAP · 60 Hours  
 `UX` `Research` `Prototyping` `Usability` `Design Thinking`
 
-**Java Development** • FIAP • 60 Hours  
+**Java Development** · FIAP · 60 Hours  
 `Java` `OOP` `Collections` `Exception Handling`
 
-**Artificial Intelligence** • FIAP • 80 Hours  
+**Artificial Intelligence** · FIAP · 80 Hours  
 `AI` `Machine Learning` `Expert Systems`
 
-**Cybersecurity** • FIAP • 120 Hours  
+**Cybersecurity** · FIAP · 120 Hours  
 `Security` `Cryptography` `Risk Management`
 
-**IT Infrastructure Management** • FIAP • 20 Hours  
+**IT Infrastructure Management** · FIAP · 20 Hours  
 `Infrastructure` `Networks` `Hardware` `IT Operations`
 
-**Cloud Fundamentals, Administration and Solution Architect** • FIAP • 80 Hours  
+**Cloud Fundamentals, Administration and Solution Architect** · FIAP · XX Hours  
 `Cloud Computing` `Administration` `Solution Architecture` `Virtualization`
-
-</sub>
 <div align = "center">
 
  <img src="https://static.wikia.nocookie.net/marvel-rivals/images/5/5f/Emoji_Icon_-_Mood_Swing.gif/revision/latest?cb=20260423110236" width="75">&nbsp;

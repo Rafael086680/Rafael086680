@@ -34,7 +34,12 @@
 
 <td width="48%" valign="top">
 
-<h2>👨‍💻 Sobre mim</h2>
+<table align="center" width="100%">
+<tr>
+
+<td width="45%" valign="top">
+
+<h2> Sobre mim</h2>
 
 <p>Desenvolvedor em formação | Engenharia de Software.</p>
 
@@ -50,33 +55,31 @@ Focado em <strong>Front-End</strong>, <strong>Back-End</strong>,
 
 </td>
 
-<td width="4%" align="center" valign="middle">
+<td width="10%" align="center" valign="middle">
 
-<h1>|</h1>
+<h2>|</h2>
 
 </td>
 
-<td width="48%" valign="top">
+<td width="45%" valign="top">
 
-<h2>💻 Tech Stack</h2>
+<h2> Tech Stack</h2>
 
-<h3>Back-End</h3>
+<b>Back-End</b><br><br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,python,c,bash,postgres,mysql,supabase,firebase" />
-</p>
+<img width="250" src="https://skillicons.dev/icons?i=nodejs,python,c,bash,postgres,mysql,supabase,firebase&perline=4" />
 
-<h3>Front-End</h3>
+<br><br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,figma" />
-</p>
+<b>Front-End</b><br><br>
 
-<h3>Ferramentas</h3>
+<img width="210" src="https://skillicons.dev/icons?i=html,css,js,ts,react,figma&perline=3" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,visualstudio" />
-</p>
+<br><br>
+
+<b>Ferramentas</b><br><br>
+
+<img width="210" src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,visualstudio&perline=3" />
 
 </td>
 

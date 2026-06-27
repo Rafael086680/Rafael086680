@@ -49,6 +49,8 @@ Tenho experiência com projetos acadêmicos e pessoais, sempre buscando evoluir 
 -  **User Experience**
   - Instituição: FIAP
   -  [Ver certificado](https://media.licdn.com/dms/image/v2/D4D2DAQED_V2nndNI5A/profile-treasury-image-shrink_800_800/B4DZ7.gl3aI4AI-/0/1782386417352?e=1783180800&v=beta&t=OwzA_gdRYgCpyb-XzzlTefEI6oHC1PP1NnNYglGLYxQ)
+60-hour certification focused on the fundamentals of User Experience (UX) and user-centered design.
+Throughout the course, I gained knowledge in user research, customer journey mapping, information architecture, prototyping, usability testing, and designing intuitive digital experiences. The program emphasized creating accessible, efficient, and user-focused solutions while aligning user needs with business goals.
 
 <div align = "center">
 

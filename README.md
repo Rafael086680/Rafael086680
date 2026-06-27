@@ -49,28 +49,47 @@ Tenho experiência com projetos acadêmicos e pessoais, sempre buscando evoluir 
 <table>
 <tr>
 
-<td align="center" width="50%" valign="top">
+<td align="center" width="33%" valign="top">
 
 **User Experience**  
 <sub>FIAP • 60 Hours</sub>
 
 <sub>`UX` • `Research` • `Prototyping` • `Usability` • `Design Thinking`</sub>
 
-<a href="LINK">
-<img src="LINK" width="170">
+<br>
+
+<a href="LINK_CERTIFICADO_UX">
+<img src="LINK_IMAGEM_UX" width="170">
 </a>
 
 </td>
 
-<td align="center" width="50%" valign="top">
+<td align="center" width="33%" valign="top">
 
 **Java Development**  
 <sub>FIAP • 60 Hours</sub>
 
 <sub>`Java` • `OOP` • `Collections` • `Exception Handling`</sub>
 
-<a href="LINK">
-<img src="LINK" width="170">
+<br>
+
+<a href="LINK_CERTIFICADO_JAVA">
+<img src="LINK_IMAGEM_JAVA" width="170">
+</a>
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+**Artificial Intelligence**  
+<sub>FIAP • 80 Hours</sub>
+
+<sub>`AI` • `Machine Learning` • `Expert Systems`</sub>
+
+<br>
+
+<a href="LINK_CERTIFICADO_AI">
+<img src="LINK_IMAGEM_AI" width="170">
 </a>
 
 </td>
@@ -79,28 +98,47 @@ Tenho experiência com projetos acadêmicos e pessoais, sempre buscando evoluir 
 
 <tr>
 
-<td align="center" width="50%" valign="top">
-
-**Artificial Intelligence**  
-<sub>FIAP • 80 Hours</sub>
-
-<sub>`AI` • `Machine Learning` • `Expert Systems`</sub>
-
-<a href="LINK">
-<img src="LINK" width="170">
-</a>
-
-</td>
-
-<td align="center" width="50%" valign="top">
+<td align="center" width="33%" valign="top">
 
 **Cybersecurity**  
 <sub>FIAP • 120 Hours</sub>
 
 <sub>`Security` • `Cryptography` • `Risk Management`</sub>
 
-<a href="LINK">
-<img src="LINK" width="170">
+<br>
+
+<a href="LINK_CERTIFICADO_CYBER">
+<img src="LINK_IMAGEM_CYBER" width="170">
+</a>
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+**IT Infrastructure Management**  
+<sub>FIAP • 20 Hours</sub>
+
+<sub>`Infrastructure` • `Networks` • `Hardware` • `IT Operations`</sub>
+
+<br>
+
+<a href="LINK_CERTIFICADO_INFRA">
+<img src="LINK_IMAGEM_INFRA" width="170">
+</a>
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+**Cloud Fundamentals**  
+<sub>FIAP • XX Hours</sub>
+
+<sub>`Cloud Computing` • `Administration` • `Solution Architecture`</sub>
+
+<br>
+
+<a href="LINK_CERTIFICADO_CLOUD">
+<img src="LINK_IMAGEM_CLOUD" width="170">
 </a>
 
 </td>

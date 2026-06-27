@@ -34,8 +34,6 @@ Tenho experiência com projetos acadêmicos e pessoais, sempre buscando evoluir 
 
 <div align="center">
 
-##  Tech Stack
-
 | Back-End | Front-End | Ferramentas |
 | :---: | :---: | :---: |
 | [![My Skills](https://skillicons.dev/icons?i=nodejs,python,c,bash,postgres,mysql,supabase,firebase)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,figma)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,visualstudio)](https://skillicons.dev) |

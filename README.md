@@ -60,7 +60,7 @@ Tenho experiência com projetos acadêmicos e pessoais, sempre buscando evoluir 
 **IT Infrastructure Management** · FIAP · 20 Hours  
 `Infrastructure` `Networks` `Hardware` `IT Operations`
 
-**Cloud Fundamentals, Administration and Solution Architect** · FIAP · XX Hours  
+**Cloud Fundamentals, Administration and Solution Architect** · FIAP · 80 Hours  
 `Cloud Computing` `Administration` `Solution Architecture` `Virtualization`
 <div align = "center">
 

@@ -54,7 +54,7 @@ Tenho experiência com projetos acadêmicos e pessoais, sempre buscando evoluir 
 **User Experience**  
 <sub>FIAP • 60 Hours</sub>
 
-<sub>UX • Research • Prototyping • Usability • Design Thinking</sub>
+<sub>`UX` • `Research` • `Prototyping` • `Usability` • `Design Thinking`</sub>
 
 <a href="LINK">
 <img src="LINK" width="170">
@@ -67,7 +67,7 @@ Tenho experiência com projetos acadêmicos e pessoais, sempre buscando evoluir 
 **Java Development**  
 <sub>FIAP • 60 Hours</sub>
 
-<sub>Java • OOP • Collections • Exception Handling</sub>
+<sub>`Java` • `OOP` • `Collections` • `Exception Handling`</sub>
 
 <a href="LINK">
 <img src="LINK" width="170">
@@ -84,7 +84,7 @@ Tenho experiência com projetos acadêmicos e pessoais, sempre buscando evoluir 
 **Artificial Intelligence**  
 <sub>FIAP • 80 Hours</sub>
 
-<sub>AI • Machine Learning • Expert Systems</sub>
+<sub>`AI` • `Machine Learning` • `Expert Systems`</sub>
 
 <a href="LINK">
 <img src="LINK" width="170">
@@ -97,7 +97,7 @@ Tenho experiência com projetos acadêmicos e pessoais, sempre buscando evoluir 
 **Cybersecurity**  
 <sub>FIAP • 120 Hours</sub>
 
-<sub>Security • Cryptography • Risk Management</sub>
+<sub>`Security` • `Cryptography` • `Risk Management`</sub>
 
 <a href="LINK">
 <img src="LINK" width="170">

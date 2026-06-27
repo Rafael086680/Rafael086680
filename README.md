@@ -43,7 +43,7 @@ Tenho experiência com projetos acadêmicos e pessoais, sempre buscando evoluir 
 </div>
 
 ---
-## 📜 Certifications
+## Certifications
 
 - **User Experience**
   - <sub>FIAP • 60 Hours</sub>

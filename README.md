@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=header&reversal=false&animation=blinking&color=0072C6" />
 </div>
 
-[**English version // Versão em inglês**](README-en.md)
+[**English version // Versão em inglês**](README-en.md) 
 
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F5F5&width=435&lines=Ol%C3%A1%2C+me+chamo+Rafael!)](https://git.io/typing-svg)
